@@ -1,0 +1,4 @@
+120 demosong(bpm120)
+demosong_ch/01.txt
+demosong_ch/02.txt
+demosong_ch/03.txt

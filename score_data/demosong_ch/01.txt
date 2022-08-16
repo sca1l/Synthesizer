@@ -1,0 +1,19 @@
+@/* luna.txt */ s{4} f{440.0,441.0,442.0,443.0} v{0.08,0.07,0.06,0.05} a{0.001,0.0008,0.0006,0.0004}
+o1
+f4 r8 f4 f4 f8
+f4 r8 f4 b4 g8
+e4 r8 e4 e4 e8
+e4 r8 e4 e4 e8
+f4 r8 f4 f4 f8
+f4 r8 f4 b4 g8
+e4 r8 e4 e4 e8
+e4 r8 e4 e4 e8
+
+f4 r8 f4 f4 f8
+f4 r8 f4 b4 g8
+e4 r8 e4 e4 e8
+e4 r8 e4 e4 e8
+f4 r8 f4 f4 f8
+f4 r8 f4 b4 g8
+e4 r8 e4 e4 e8
+e4 r8 e4 e4 e8
